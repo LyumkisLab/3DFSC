@@ -8,7 +8,7 @@ networkx==1.11
 numba==0.34.0
 numpy==1.13.1
 olefile==0.44
-Pillow==4.2.1
+Pillow==8.2.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2017.2
