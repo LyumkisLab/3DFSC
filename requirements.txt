@@ -6,7 +6,7 @@ matplotlib==2.0.2
 mrcfile==1.0.0
 networkx==1.11
 numba==0.34.0
-numpy==1.13.1
+numpy==1.22.0
 olefile==0.44
 Pillow==4.2.1
 pyparsing==2.2.0
